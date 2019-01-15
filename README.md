@@ -6,3 +6,5 @@ https://www.geeksforgeeks.org/stack-in-cpp-stl/
 <br>
 http://www.cplusplus.com/reference/stack/stack/
 <br>
+https://www.techiedelight.com/iterate-over-characters-string-cpp/
+<br
