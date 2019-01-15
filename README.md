@@ -7,4 +7,5 @@ https://www.geeksforgeeks.org/stack-in-cpp-stl/
 http://www.cplusplus.com/reference/stack/stack/
 <br>
 https://www.techiedelight.com/iterate-over-characters-string-cpp/
-<br
+<br>
+https://en.wikipedia.org/wiki/Pragma_once
