@@ -11,3 +11,5 @@ https://www.techiedelight.com/iterate-over-characters-string-cpp/
 https://en.wikipedia.org/wiki/Pragma_once
 <br>
 https://www.cs.nmsu.edu/~rth/cs/cs177/map/datamem.html
+<br>
+https://www.cs.nmsu.edu/~rth/cs/cs177/map/funmemb.html
