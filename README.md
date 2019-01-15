@@ -9,3 +9,5 @@ http://www.cplusplus.com/reference/stack/stack/
 https://www.techiedelight.com/iterate-over-characters-string-cpp/
 <br>
 https://en.wikipedia.org/wiki/Pragma_once
+<br>
+https://www.cs.nmsu.edu/~rth/cs/cs177/map/datamem.html
